@@ -2,7 +2,9 @@
 Simple python program to change you Mac Address. 
 ## Helps to
 > to increase your anonimity
+
 > to impersonate others device
+
 > to Bypass filters.
 
 ### Installation for linux :
